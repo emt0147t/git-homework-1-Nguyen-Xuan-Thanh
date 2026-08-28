@@ -7,3 +7,6 @@ week2
   week2b
   wip
 
+  main             876ae0c [origin/main: ahead 6] Merge week2 into week2b using 3-way merge
+* work-in-progress 18bac58 [origin/work-in-progress: ahead 1] Update wip.txt
+
