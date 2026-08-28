@@ -10,3 +10,4 @@ week2
   main             876ae0c [origin/main: ahead 6] Merge week2 into week2b using 3-way merge
 * work-in-progress 18bac58 [origin/work-in-progress: ahead 1] Update wip.txt
 
+Lệnh Rebase cất các commit của nhánh experiment, cập nhật nhánh này bắt đầu từ commit mới nhất của main, rồi đắp các commit đã cất lên trên cùng để tạo thành 1 đường thẳng.
